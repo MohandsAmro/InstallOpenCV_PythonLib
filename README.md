@@ -9,8 +9,11 @@ This Script is to install
 
 # InstallOpenCV_PythonLib #
 $ cd ~
+
 $ git clone https://github.com/MohandsAmro/InstallOpenCV_PythonLib
+
 $ cd InstallOpenCV_PythonLib
+
 $ sudo ./InstallOpenCV_PythonLib.sh
 
 --------------------------------------------------------------------------
