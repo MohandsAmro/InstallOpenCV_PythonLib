@@ -12,6 +12,8 @@ This Script is to install
 cd InstallOpenCV_PythonLib
 sudo ./InstallOpenCV_PythonLib.sh
 
+--------------------------------------------------------------------------
+
 # Update && upgrade your linux machine
 sudo apt-get update
 sudo apt-get upgrade
