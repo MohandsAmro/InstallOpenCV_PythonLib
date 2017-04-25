@@ -8,4 +8,8 @@ This Script is to install
 7. install numpy
 
 # InstallOpenCV_PythonLib #
+
+cd InstallOpenCV_PythonLib
+sudo ./InstallOpenCV_PythonLib.sh
+
 # Mohands.Amro.ECE@gmail.com #
