@@ -9,7 +9,7 @@ This Script is to install
 
 # InstallOpenCV_PythonLib #
 
-cd InstallOpenCV_PythonLib
-sudo ./InstallOpenCV_PythonLib.sh
+// cd InstallOpenCV_PythonLib
+// sudo ./InstallOpenCV_PythonLib.sh
 
 # Mohands.Amro.ECE@gmail.com #
